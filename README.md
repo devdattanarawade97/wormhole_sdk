@@ -1,7 +1,6 @@
-Here’s the corrected formatting for your `README.md` file. The main issue was the unclosed code block for the installation section. I've fixed that and ensured proper Markdown syntax throughout:
 
 ```markdown
-# Token Transfer between Ethereum and Solana using Wormhole SDK
+# Cross-Chain token transfer using Wormhole SDK
 
 This project demonstrates how to bridge tokens from Ethereum to Solana using the Wormhole SDK. The process involves initializing signers for both chains, initiating a transfer on the source chain (Ethereum), waiting for an attestation, and then completing the transfer on the destination chain (Solana).
 
